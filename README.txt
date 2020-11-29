@@ -10,4 +10,4 @@ b.	RabbitMQ
 3.	QueueBackgroundWorkItem
 I have worked NServiceBus , Hangfire and QueueBackgroundWorkItem. My opinion is QueueBackgroundWorkItem is the best solution. 
 
-QueueBackgroundWorkItem example project is uploaded in GitHub for the beginners 
+
